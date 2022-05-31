@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 
 export default function App() {
 
-  
+  const onPress = () => null;
  
 
   return (
@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#f05c5b',
     flex: 1
   },
+
   mainContainer:{
     backgroundColor: '#f05c5b',
   },
